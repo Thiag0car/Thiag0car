@@ -1,5 +1,7 @@
 <h1 align="center">Hi 👋, I'm Thiago</h1>
-<h3 align="center">A person motivated to learn data science and AI</h3>
+<h2 align="left">
+    🔭 I'm currently a data science student at PUC-SP (Pontifícia Universidade Católica de São Paulo).
+</h2>
 
 - 🌱 I’m currently learning **Deep learning and Power BI**
 
@@ -15,11 +17,15 @@
 <a href="https://instagram.com/thiago_carvalho02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiago_carvalho02_" height="30" width="40" /></a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://opencv.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" alt="opencv" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://pytorch.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" alt="pytorch" width="40" height="40"/> </a> <a href="https://scikit-learn.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" alt="scikit_learn" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/> </a> </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=thiag0car&show_icons=true&locale=en&layout=compact" alt="thiag0car" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=thiag0car&show_icons=true&locale=en" alt="thiag0car" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=thiag0car&" alt="thiag0car" /></p>
+<h2 align="left">
+    👯 My stats:
+</h2>
+<div align="center">
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Thiag0car&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiag0car&layout=compact&langs_count=7&theme=dracula"/>
+    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiag0car&theme=tokyonight"/>
+</div>
+<h2 align="left">
+    🌱 Below you can find my best projects pinned.
+</h2>
