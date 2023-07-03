@@ -17,15 +17,6 @@
 <a href="https://instagram.com/thiago_carvalho02_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="thiago_carvalho02_" height="30" width="40" /></a>
 </p>
 
-
-<h2 align="left">
-    👯 My stats:
-</h2>
-<div align="center">
-    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=Thiag0car&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-    <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Thiag0car&layout=compact&langs_count=7&theme=dracula"/>
-    <img height="190em" src="https://github-readme-streak-stats.herokuapp.com/?user=Thiag0car&theme=tokyonight"/>
-</div>
 <h2 align="left">
     🌱 Below you can find my best projects pinned.
 </h2>
