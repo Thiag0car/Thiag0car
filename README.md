@@ -1,7 +1,5 @@
-<h1 align="center">Hi 👋, I'm Thiago</h1>
-<h2 align="left">
-    🔭 I'm currently a data science student at PUC-SP (Pontifícia Universidade Católica de São Paulo).
-</h2>
+### Hi 👋, I'm Thiago
+#### I'm currently a data science student at PUC-SP (Pontifícia Universidade Católica de São Paulo).
 
 - 🌱 I’m currently learning **Deep learning and Power BI**
 
