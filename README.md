@@ -1,9 +1,9 @@
 ### Hi 👋, I'm Thiago
 #### I'm currently a data science student at PUC-SP (Pontifícia Universidade Católica de São Paulo).
 
-- 🌱 I’m currently learning **Deep learning and Power BI**
+- 🌱 I’m currently learning **Deep learning and AWS**
 
-- 💬 Ask me about **Data Science in general: Python, R, Git, SQL and ML.**
+- 💬 Ask me about **Data Science in general: Python, R , Git, SQL and ML.**
 
 - 📫 How to reach me **thiago-20021023@hotmail.com**
 
